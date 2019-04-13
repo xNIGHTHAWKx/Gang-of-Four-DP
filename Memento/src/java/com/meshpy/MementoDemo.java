@@ -3,7 +3,7 @@ package com.meshpy;
 import com.meshpy.memento.CareTaker;
 import com.meshpy.memento.Originator;
 
-public class Main {
+public class MementoDemo {
     public static void main(String[] args) {
         Originator originator = new Originator();
         CareTaker careTaker = new CareTaker();

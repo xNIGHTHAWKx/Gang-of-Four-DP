@@ -1,4 +1,4 @@
-# **WZORZEC PROJEKTOWY - MEMENTO**
+# **WZORZEC PROJEKTOWY - Memento**
 
 Wzorzec projektowy **Memento** stosujemy, gdy potrzebujemy możliwość przywracania poprzedniego (lub dawnego) stanu obiektu.
 W jego przypadku stosujemy takie metody jak _undo_ i _rollback_. 
